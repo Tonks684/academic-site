@@ -49,7 +49,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: X
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/smt29021
     label: Follow me on X
