@@ -65,7 +65,7 @@ social:
     icon_pack: fab
     link: hhttps://www.linkedin.com/in/samueltonks/
   - icon: spotify
-    icon pack: spotify
+    icon pack: fab
     link: https://open.spotify.com/user/1150095203?si=0cab32f974da4268
   -
   # Link to a PDF of your resume/CV.
