@@ -64,6 +64,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: hhttps://www.linkedin.com/in/samueltonks/
+  - icon: spotify
+    icon pack: fab
+    link: https://open.spotify.com/user/1150095203?si=0cab32f974da4268
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
