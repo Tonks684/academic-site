@@ -60,10 +60,12 @@ social:
     link: https://scholar.google.com/citations?user=SR0QRX8AAAAJ&hl=en
   - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/smt29021
-    label: Follow me on X
-  - icon: fa-spotify
-    icon pack: fa-brands
+    link: https://twitter.com/smt29021    
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: spotify
+    icon pack: fab
     link: https://open.spotify.com/user/1150095203?si=0cab32f974da4268
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
