@@ -85,5 +85,19 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi!
+
+I am a third year PhD student in Computer Science at the [University of Birmingham](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), supervised by [Prof. Iain Styles](https://www.turing.ac.uk/people/researchers/iain-styles), [Dr. Alexander Krull](https://research.birmingham.ac.uk/en/persons/alexander-krull) and [Prof. Ales Leonardis](https://scholar.google.co.uk/citations?user=BEFl4j0AAAAJ&hl=en). My PhD is in collaboration with [GSK](https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/) with the industrial supervision of [Minh Doan](https://scholar.google.com/citations?user=M6_hL-AAAAAJ&hl=en) and [Steve Hood](https://scholar.google.co.uk/citations?user=mPhF_xkAAAAJ&hl=en) and is set to finish November 2024.
+
+My research interests lie in generative modelling, uncertainty quantification and predictive performance evaluation for conditional image generation problems in bioimaging applications.
+
+Recently, I have worked on designing a pipeline for [evaluating virtual staining for high-throughput screening](https://research.birmingham.ac.uk/en/publications/evaluation-of-virtual-staining-for-high-throughput-screenings) (ISBI 2023 paper and oral). I recieved an (Enrichment Award)[https://www.turing.ac.uk/work-turing/studentships/enrichment] from (The Alan Turing Institute)[https://www.turing.ac.uk/] the UK's national institute for AI. I have been involved with the open-source software development on (sci.vision)[https://sci.vision/#/] contributing code and (pitching sci.vision at AIUK)[https://www.turing.ac.uk/news/first-pitchfest-winner-announced-ai-uk-2023]. I am also running an in-person workshop at (The Alan Turing Institute)[https://www.turing.ac.uk/] on (Uncertainty Quantification for Generative Modelling)[https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=110064&eventID=287&CSPCHD=000001000000E7wPZbwn2oC9Y8iUArSWreuerrl6ME9r7QSoDa] in September 2023. 
+
+Before starting my PhD, I worked as a Data Scientist in what was previously GSK Consumer Healthcare but is now (Haleon)[https://www.haleon.com/our-science/our-scientists]. During that time I was focused on designing ML-based pipelines for forecasting category growth whilst also studying for the (MSc in Business Analytics)[https://www.imperial.ac.uk/business-school/masters/business-analytics/] at Imperial College London. I joined GSK back in 2017 on the (Future Leaders Programme)[https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/]
+
+I enjoy running, cooking, exploring London with friends and playing my pair of Technic 1210 mk2 turntables with Omnitronic TRM-202MK3 2-Channel Rotary DJ Mixer!
+
+Do reach out to me if my research is of interest to you - I'm always happy to chat about potential collaborations!
+
+Contact: sxt118@student.bham.ac.uk
 {style="text-align: justify;"}
