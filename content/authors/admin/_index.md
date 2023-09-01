@@ -46,33 +46,31 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/samueltonks/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Tonks684
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: '/#contact'
+    link: https://scholar.google.com/citations?user=SR0QRX8AAAAJ&hl=en
   - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/smt29021
     label: Follow me on X
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=SR0QRX8AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Tonks684
-  - icon: linkedin
-    icon_pack: fab
-    link: hhttps://www.linkedin.com/in/samueltonks/
-  - icon: spotify
-    icon pack: fab
+  - icon: fa-spotify
+    icon pack: fa-brands
     link: https://open.spotify.com/user/1150095203?si=0cab32f974da4268
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
