@@ -6,11 +6,18 @@ title: 'Evaluating virtual staining for high-throughput screening'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  # - Robert Ford
+  - Chih-Yang Hsu
+  - Steve Hood
+  - Ryan Musso
+  - Ceridwen Hopely
+  - Steve Titus
+  - Alexander Krull
+  - Minh Doan
+  - Iain Styles
 
 # Author notes (optional)
 # author_notes:
-#   - 'Equal contribution'
+  # - 'Equal contribution'
 #   - 'Equal contribution'
 
 date: '2023-09-01T00:00:00Z'
@@ -26,8 +33,8 @@ publishDate: '2023-09-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *International Symposium on Biomedical Imaging*
+publication_short: In *ISBI*
 
 abstract: Little is known about the feasibility of virtual staining for industry applications such as high-throughput screening (HTS). We provide a thorough analysis of the usability of image-to-image translation for the virtual staining of label-free bright-field microscopy images of live cells, using a pool of more than 1.6 million images across six lung, six ovarian and six breast cell lines consisting of paired bright-field, cytoplasm, nuclei and DNA-damage stains. To our knowledge this is the first time an analysis of virtual staining has been performed on three levels; pixel-based, biological-feature based, and determining if virtual staining can reproduce drug-effect. Our results reveal that while virtually stained nuclei and cytoplasm images often consistently and faithfully reproduce the information found in fluorescence microscopy, virtually stained images of DNA-damage are usually less accurate.
 
@@ -37,7 +44,7 @@ abstract: Little is known about the feasibility of virtual staining for industry
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
