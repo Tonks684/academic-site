@@ -212,7 +212,7 @@ sections:
   #       Quickly discover relevant content by [filtering publications](./publication/).
   #       {{% /callout %}}
   #     filters:
-  #       folders:
+  #       folders:/
   #         - publication
   #       exclude_featured: true
   #   design:
