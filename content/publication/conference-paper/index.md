@@ -41,10 +41,10 @@ abstract: Little is known about the feasibility of virtual staining for industry
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [AI Trustworthiness]
 
 # Display this page in the Featured widget?
-featured: true
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
