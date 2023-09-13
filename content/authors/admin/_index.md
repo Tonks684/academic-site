@@ -26,9 +26,10 @@ bio: My research interests include generative modelling, uncertainty quantificat
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Machine Learning
   - Generative Modelling
   - Uncertainty Quantification
+  - AI Trustworthiness
   - Applications in Health
 
 # Education to show in About widget
@@ -91,7 +92,7 @@ I'm a third year PhD student in Computer Science at the [University of Birmingha
 
 My research interests lie in generative modelling, uncertainty quantification and predictive performance evaluation for conditional image generation problems in bioimaging applications.
 
-Recently, I've worked on designing a pipeline for [evaluating virtual staining for high-throughput screening](https://ieeexplore.ieee.org/document/10230501) (IEEE ISBI 2023 paper and oral). I received an [Enrichment Award](https://www.turing.ac.uk/work-turing/studentships/enrichment) from [The Alan Turing Institute](https://www.turing.ac.uk/) the UK's national institute for AI. I've been involved with the development of [sci.vision](https://sci.vision/#/) an open-source computer vision package contributing code and [pitching sci.vision at AIUK 2023 PitchFest](https://www.turing.ac.uk/news/first-pitchfest-winner-announced-ai-uk-2023). I'm also running an in-person workshop at [The Alan Turing Institute](https://www.turing.ac.uk/) on [Uncertainty Quantification for Generative Modelling](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=110064&eventID=287&CSPCHD=000001000000E7wPZbwn2oC9Y8iUArSWreuerrl6ME9r7QSoDa) in September 2023. 
+Recently, I've worked on designing a pipeline for [evaluating virtual staining for high-throughput screening](https://ieeexplore.ieee.org/document/10230501) (IEEE ISBI 2023 paper and oral). I received an [Enrichment Award](https://www.turing.ac.uk/work-turing/studentships/enrichment) from [The Alan Turing Institute](https://www.turing.ac.uk/) the UK's national institute for AI. I've been involved with the development of [sci.vision](https://sci.vision/#/) an open-source computer vision package contributing code and pitching sci.vision at [AIUK 2023 PitchFest](https://www.turing.ac.uk/news/first-pitchfest-winner-announced-ai-uk-2023). I'm also running an in-person workshop at [The Alan Turing Institute](https://www.turing.ac.uk/) on [Uncertainty Quantification for Generative Modelling](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=110064&eventID=287&CSPCHD=000001000000E7wPZbwn2oC9Y8iUArSWreuerrl6ME9r7QSoDa) in September 2023. 
 
 Before starting my PhD, I worked as a Data Scientist in what was previously GSK Consumer Healthcare but is now [Haleon](https://www.haleon.com/our-science/our-scientists). During that time I was focused on designing ML-based pipelines for forecasting category growth whilst also studying for the [MSc in Business Analytics](https://www.imperial.ac.uk/business-school/masters/business-analytics/) at Imperial College London. I joined GSK back in 2017 on the [Future Leaders Programme](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/).
 
