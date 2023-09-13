@@ -85,6 +85,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+  # news:
+  #   - Running workshop at The Alan Turing Insitute on [Uncertainty Quantification for Generative Modelling](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=110064&eventID=287&traceRedir=4)
 ---
 
 Hi!
@@ -103,9 +105,5 @@ Do reach out to me if my research is of interest to you - I'm always happy to ch
 
 Contact: sxt118@student.bham.ac.uk
 
----
-news:
-  - Running workshop at The Alan Turing Insitute on UNcertainty QuantificaTION
----
 
 {style="text-align: justify;"}
