@@ -84,6 +84,7 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 Hi!
@@ -101,4 +102,10 @@ I enjoy running, cooking, exploring London with friends and playing my Technic 1
 Do reach out to me if my research is of interest to you - I'm always happy to chat about potential collaborations!
 
 Contact: sxt118@student.bham.ac.uk
+
+---
+news:
+  - Running workshop at The Alan Turing Insitute on UNcertainty QuantificaTION
+---
+
 {style="text-align: justify;"}
