@@ -28,6 +28,7 @@ bio: My research interests include generative modelling, uncertainty quantificat
 interests:
   - Machine Learning
   - Generative Modelling
+  - Multi-modal image-to-image translation
   - Uncertainty Quantification
   - AI Trustworthiness
   - Applications in Health
