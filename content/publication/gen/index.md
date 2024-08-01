@@ -1,46 +1,47 @@
 ---
-title: 'Image Denoising and the Generative Accumulation of Photons'
+title: 'Can virtual staining for high-throughput screening generalize?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Alexander Krull
-  - Hector Basevi
-  - Benjamin Salmon
-  - Andre Zeug
-  - Franziska Muller
   - admin
-  - Leela Muppala
-  - Ales Leonardis
+  - Cuong Nguyer
+  - Steve Hood
+  - Ryan Musso
+  - Ceridwen Hopely
+  - Steve Titus
+  - Minh Doan
+  - Iain Styles
+  - Alexander Krull
 
 # Author notes (optional)
 # author_notes:
   # - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-10-30T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2307.06607'
+date: '2024-07-09T00:00:00Z'
+doi: 'https://doi.org/10.48550/arXiv.2407.06979'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-01T00:00:00Z'
+publishDate: '2024-07-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Winter Conference on Applications of Computer Vision (awaiting decision)*
-publication_short: In *WACV23*
 
-abstract: We present a fresh perspective on shot noise corrupted images and noise removal. By viewing image formation as the sequential accumulation of photons on a detector grid, we show that a network trained to predict where the next photon could arrive is in fact solving the minimum mean square error (MMSE) denoising task. This new perspective allows us to make three contributions; We present a new strategy for self-supervised denoising, We present a new method for sampling from the posterior of possible solutions by iteratively sampling and adding small numbers of photons to the image. We derive a full generative model by starting this process from an empty canvas. We call this approach generative accumulation of photons (GAP). We evaluate our method quantitatively and qualitatively on 4 new fluorescence microscopy datasets, which will be made available to the community. We find that it outperforms supervised, self-supervised and unsupervised baselines or performs on-par.
+# publication: In *Winter Conference on Applications of Computer Vision (awaiting decision)*
+# publication_short: In *WACV23*
 
+abstract: The large volume and variety of imaging data from high-throughput screening (HTS) in the pharmaceutical industry present an excellent resource for training virtual staining models. However, the potential of models trained under one set of experimental conditions to generalize to other conditions remains underexplored. This study systematically investigates whether data from three cell types (lung, ovarian, and breast) and two phenotypes (toxic and non-toxic conditions) commonly found in HTS can effectively train virtual staining models to generalize across three typical HTS distribution shifts unseen phenotypes, unseen cell types, and the combination of both. Utilizing a dataset of 772,416 paired bright-field, cytoplasm, nuclei, and DNA-damage stain images, we evaluate the generalization capabilities of models across pixel-based, instance-wise, and biological-feature-based levels. Our findings indicate that training virtual nuclei and cytoplasm models on non-toxic condition samples not only generalizes to toxic condition samples but leads to improved performance across all evaluation levels compared to training on toxic condition samples. Generalization to unseen cell types shows variability depending on the cell type; models trained on ovarian or lung cell samples often perform well under other conditions, while those trained on breast cell samples consistently show poor generalization. Generalization to unseen cell types and phenotypes shows good generalization across all levels of evaluation compared to addressing unseen cell types alone. This study represents the first large-scale, data-centric analysis of the generalization capability of virtual staining models trained on diverse HTS datasets, providing valuable strategies for experimental training data generation.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Generative Modelling, Image Denoising]
+tags: [Generative Modelling, Image Translation, Generalizability]
 
 # Display this page in the Featured widget?
 featured: False
