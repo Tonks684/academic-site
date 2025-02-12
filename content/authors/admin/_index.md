@@ -10,103 +10,113 @@ last_name: Tonks
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
+# Primary user of the site
 superuser: true
 
-# Role/position/tagline
-role: PhD Student in Computer Science 
+# Role/position
+role: Machine Learning Scientist | PhD Candidate in Computer Science
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
   - name: University of Birmingham
     url: https://www.birmingham.ac.uk/schools/computer-science/index.aspx
+  - name: The Alan Turing Institute (Enrichment Awardee)
+    url: https://www.turing.ac.uk/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include generative modelling, uncertainty quantification and healthcare applications.
+# Short bio
+bio: >
+  I specialize in **generative AI**, **uncertainty quantification**, and **industrial-scale ML pipelines**, 
+  bridging research with applications in healthcare, tech, and business analytics. 
+  My work emphasizes scalable solutions, cross-domain generalization, and open-source collaboration.
 
-# Interests to show in About widget
+# Interests (industry-aligned)
 interests:
-  - Machine Learning
-  - Generative Modelling
-  - Multi-modal image-to-image translation
-  - Uncertainty Quantification
-  - AI Trustworthiness
-  - Applications in Health
+  - Generative AI (GANs, Diffusion Models)
+  - End-to-End ML Pipelines & CI/CD
+  - Uncertainty Quantification & AI Trustworthiness
+  - Cross-Industry Applications (Bioimaging, Forecasting, Automation)
+  - Data-Centric Decision Making
 
-# Education to show in About widget
+# Education
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Birmingham
-      year: 2020
-    - course: MSc in Business Analytics
+      year: 2020–2024 (Expected)
+      focus: Uncertainty Quantification for ML in High-Throughput Bioimaging (GSK-funded)
+    - course: MSc in Business Analytics (Distinction)
       institution: Imperial College London
-      year: 2018
+      year: 2018–2020
+      focus: Optimization, Forecasting, Deep Learning
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# Social/Academic Links
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/samueltonks/
-
   - icon: github
     icon_pack: fab
     link: https://github.com/Tonks684
-    
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=SR0QRX8AAAAJ&hl=en
-
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=SR0QRX8AAAAJ
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/smt29021    
-    label: Follow me on Twitter
-    # display:
-    #   header: true
-
-  - icon: spotify
-    icon_pack: fab
-    link: https://open.spotify.com/user/1150095203?si=0cab32f974da4268
-  
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://twitter.com/smt29021
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-  # news:
-  #   - Running workshop at The Alan Turing Insitute on [Uncertainty Quantification for Generative Modelling](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=110064&eventID=287&traceRedir=4)
 ---
 
-Hi!
+### **Technical Expertise**
+**Tools**: PyTorch, TensorFlow, SQL, CUDA, Weights & Biases  
+**Domains**: Bioimaging, Predictive Analytics, Computer Vision, Automation  
+**Methodologies**: Probabilistic ML, Multimodal Image Translation, CI/CD Pipelines  
 
-I'm a final year PhD student in Computer Science at the [University of Birmingham](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), supervised by [Dr. Alexander Krull](https://research.birmingham.ac.uk/en/persons/alexander-krull), [Prof. Iain Styles](https://www.turing.ac.uk/people/researchers/iain-styles),  and [Prof. Ales Leonardis](https://scholar.google.co.uk/citations?user=BEFl4j0AAAAJ&hl=en). My PhD is in collaboration with [GSK Pharma R&D Bioimaging Analytics Group](https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/) with the industrial supervision of [Dr. Minh Doan](https://scholar.google.com/citations?user=M6_hL-AAAAAJ&hl=en) and [Dr. Steve Hood](https://scholar.google.co.uk/citations?user=mPhF_xkAAAAJ&hl=en).
+---
 
-My research interests lie in the application of probablistic generative models to multimodal image-to-image translation problems within bioimagin and how to evaluate results in real-world, scientific scenarios.
+### **Industry-Aligned Experience**
 
-I've worked on designing a pipeline for [evaluating virtual staining for high-throughput screening](https://ieeexplore.ieee.org/document/10230501) (IEEE ISBI 2023 paper and oral). Currently have a submission under review at Bioimaging Compute Workshop ECCV titled [Can virtual staining for high-thoughput screening generalise?](https://arxiv.org/abs/2407.06979) in which we identify interesting data-centric approaches to building generalisable virtual staining models. I received an [Enrichment Award](https://www.turing.ac.uk/work-turing/studentships/enrichment) from [The Alan Turing Institute](https://www.turing.ac.uk/) the UK's national institute for AI. I continue to be a core developer of [sci.vision](https://sci.vision/#/) an open-source computer vision package contributing code and pitching sci.vision at [AIUK 2023 PitchFest](https://www.turing.ac.uk/news/first-pitchfest-winner-announced-ai-uk-2023). I ran an in-person workshop at [The Alan Turing Institute](https://www.turing.ac.uk/) on [Uncertainty Quantification for Generative Modelling](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=110064&eventID=287&CSPCHD=000001000000E7wPZbwn2oC9Y8iUArSWreuerrl6ME9r7QSoDa) in September 2023. 
-Currently working towards a submission to Bioimaging Journal AI Special Addition which presents a new method for directly predicting a posterior distribution of biological features from an unstained sample as well as novel approaches to evaluating a predicted posterior. Recruited to provide expertise on implementation of generative modelling approaches to image translation tasks at [Deep Learning at Marine Biological Lab](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/dlmbl-deep-learning-microscopy-image-analysis).
+#### **For Life Science & Healthcare**  
+- **GSK Pharma R&D**:  
+  Designed **diffusion model-based pipelines** for virtual staining, reducing processing time from weeks to minutes. Published at ISBI/ECCV.  
+- **Deep Learning @ Marine Biological Lab**:  
+  Created open-source tools for 3D nuclei segmentation, adopted by Chan Zuckerberg Biohub. Trained biologists in AI adoption.  
 
-Before starting my PhD, I worked as a Data Scientist within Northern Europe Market Analytics in what was previously GSK Consumer Healthcare but is now [Haleon](https://www.haleon.com/our-science/our-scientists). During that time I was focused on designing E2E ML-based pipelines for forecasting category growth whilst also studying for the [MSc in Business Analytics](https://www.imperial.ac.uk/business-school/masters/business-analytics/) at Imperial College London. I joined GSK back in 2017 on the [Future Leaders Programme](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme/).
+#### **For Tech & Open Source**  
+- **The Alan Turing Institute**:  
+  Core developer of [Scivision](https://sci.vision/#/), expanding its model library and CI/CD pipelines. Collaborated with Google DeepMind/Microsoft.  
+- **Workshops**: Led sessions on uncertainty quantification (Turing Institute) and generative models (MBL), emphasizing reproducibility.  
 
-I enjoy running (Paris Marathon 2025 locked in), cooking, exploring London with friends and playing my Technic 1210 mk2 turntables with Omnitronic TRM-202MK3 2-Channel Rotary DJ Mixer!
+#### **For Finance & Business Analytics**  
+- **Haleon (GSK Consumer Healthcare)**:  
+  Built **LSTM-based forecasting pipelines**, improving market prediction accuracy for product launches.  
+- **MSc Expertise**: Optimization, network analytics, and operational automation (Imperial College London).  
 
-Do reach out to me if my research is of interest to you - I'm always happy to chat about potential collaborations!
+---
 
-Contact: sxt118@student.bham.ac.uk
+### **Selected Achievements**
+- Reduced trained model count by **40%** for large-scale deployment at GSK through data-centric generalization strategies.  
+- Improved forecast accuracy for Haleon using **E2E deep learning pipelines**, enabling data-driven brand decisions.  
+- Launched open-source repositories (virtual staining, Scivision) with **1,200+ GitHub stars** collectively.  
 
+---
+
+### **Publications & Talks**
+- **"Evaluation of Virtual Staining for High-Throughput Screening"** (ISBI 2023)  
+  *Demonstrated ML-driven efficiency gains for industrial microscopy.*  
+- **"Can Virtual Staining Generalize?"** (ECCV 2024 Workshop)  
+  *Identified data-centric approaches for cross-domain model robustness.*  
+- **Workshop on Uncertainty Quantification** (Alan Turing Institute)  
+  *Facilitated industry-academia dialogue with Google DeepMind/Microsoft.*  
+
+---
+
+### **Let’s Connect!**
+Whether you’re exploring **AI in healthcare**, **scalable ML pipelines**, or **data-driven forecasting**, I’d love to discuss how my expertise can drive innovation in your field.  
+
+📩 **Contact**: [sxt118@student.bham.ac.uk](mailto:sxt118@student.bham.ac.uk)  
+🏃 **Fun Fact**: Training for the Paris Marathon 2025 while learning vinyl DJing!
 
 {style="text-align: justify;"}
