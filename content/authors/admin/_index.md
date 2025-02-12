@@ -114,7 +114,7 @@ social:
 ---
 
 ### **Let’s Connect!**
-Whether you’re exploring **AI in healthcare**, **scalable ML pipelines**, or **data-driven forecasting**, I’d love to discuss how my expertise can drive innovation in your field.  
+Whether you’re exploring **AI in healthcare**, **scalable ML pipelines**, or **data-driven forecasting**, I’d love to discuss how my expertise can drive innovation in your field.   
 
 📩 **Contact**: [smtonks2712@gmail.com](mailto:smtonks2712@gmail.com)
 🏃 **Fun Fact**: Training for the Paris Marathon 2025 while learning vinyl DJing!
